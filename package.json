@@ -2,7 +2,7 @@
   "name": "axelrod-tournament",
   "version": "1.0.0",
   "description": "Interactive Axelrod Iterated Prisoner's Dilemma Tournament",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/axelrod-tournament",
+  "homepage": "https://Yami-20.github.io/axelrod-tournament",
   "private": true,
   "dependencies": {
     "ajv": "^8.20.0",
