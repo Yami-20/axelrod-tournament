@@ -6,12 +6,6 @@ This project demonstrates how cooperation can emerge between competing strategie
 
 ---
 
-## 🔗 Live Demo
-
-https://Yami-20.github.io/axelrod-tournament
-
----
-
 ## What You Can Do
 
 - **Explore 14 strategies** from the original Axelrod tournament
